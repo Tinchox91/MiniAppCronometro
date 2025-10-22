@@ -1,0 +1,17 @@
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\MiniApp.exe
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\MiniApp.deps.json
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\MiniApp.runtimeconfig.json
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\MiniApp.dll
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\MiniApp.pdb
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.csproj.GenerateResource.cache
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.AssemblyInfoInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.AssemblyInfo.cs
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.csproj.CoreCompileInputs.cache
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.dll
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\MiniApp.dll
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.pdb
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.genruntimeconfig.cache
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\MiniApp.dll
+C:\Users\tinch\OneDrive\Escritorio\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\MiniApp.Properties.Resources.resources
