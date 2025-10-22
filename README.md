@@ -1,1 +1,1 @@
-#Aplicaicion De un Cronometro
+# MiniAppCronometro
